@@ -62,3 +62,9 @@ fun ActivitasPertama(modifier: Modifier) {
                         .size(100.dp)
                         .padding(all = 5.dp)
                 )
+                Spacer(modifier = Modifier.width(30.dp))
+
+                }
+            }
+    }
+}
