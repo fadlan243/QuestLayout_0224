@@ -28,3 +28,6 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.foundation.layout.Box
 
 @Composable
+fun ActivitasPertama(modifier: Modifier) {
+
+}
